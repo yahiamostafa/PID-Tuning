@@ -1,0 +1,7 @@
+Maximum overshoot is the same from matlab ,Simulink And Hand Analysis (Mp = 44.4%).
+Peak time is the same from matlab ,Simulink And Hand Analysis (tp = 0.04).
+Settling time from matlab = 0.17 , from Simulink = 0.16 and from hand Analysis = (0.14 or 0.19). (may be beacuse of the percantage error).
+Rise time from matlab = 0.017  , from Simulink = 0.015 and from hand Analysis = (0.0232).
+
+The differences may be occur due to different definitions in The programm for Example (Rise time may calculate as 90% of My desired value in matlab and in simulink 
+may be at 95% and so on).
