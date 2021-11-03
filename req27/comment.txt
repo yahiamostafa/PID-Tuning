@@ -1,0 +1,5 @@
+The value of the max overshoot is 25.2% so we have to make it less than or equal 20.
+
+so i've changed the value of (alpha) and get the desired output.
+
+To be continued ...

@@ -1,0 +1,23 @@
+i've changed the value of alpha to be greater than the old value the old value is equal =31/53 
+and the new value is equal = 1/2 . and The result is that the max overshoot decreased from 21.4% 
+to 19.6% , that's because When the Phase lead increases the max overshoot decreases .
+The old Values:
+Kc = 1.2423
+alpha = 31/53
+max overshoot = 25.2%
+ess Step = 0
+ess ramp = 8.495e-3
+ess parobla = INf
+zero = 62
+pole = 106
+
+
+The new Values:
+Kc = 1.16
+alpha = 1/2
+max overshoot = 18.2%
+ess Step = 0
+ess ramp = 9.937e-3
+ess parobla = INf
+zero = 50
+pole = 100

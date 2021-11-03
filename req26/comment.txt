@@ -1,0 +1,13 @@
+Be:
+The max overshoot in matlab is 25.2% and the max overshoot is Simulink is 25.9%.
+Rise time in matlab is 0.0169 sec and the Rise time in Simulink 16.858 msec.
+Peak time in matlab is 0.04 sec and the peak time in simulink is 0.04 sec.
+Settling time in matlab is 0.0992 sec and The settling time in simulink is 83.261 msec .
+Af:
+The max overshoot in matlab is 18.2% and the max overshoot is Simulink is 18.45%.
+Rise time in matlab is 0.0188 sec and the Rise time in Simulink 18.621 msec.
+Peak time in matlab is 0.042 sec and the peak time in simulink is 0.042 sec.
+Settling time in matlab is 0.0957 sec and The settling time in simulink is 79.970 msec .
+
+
+And after we tune the value the settling time decreases And the rise time increases.
